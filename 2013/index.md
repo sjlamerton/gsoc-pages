@@ -1,42 +1,34 @@
 ---
 layout: default
-title: GSoC 2013
+title: 2013 Summer of Code
 ---
 
-![Google Summer of Code 2013]({{ site.url }}/2013/logo.jpg)
+![2013 Summer of Code](logo.jpg)
 
-The wxWidgets organization is currently discussing and collecting project ideas, see the wx-dev on googlegroups.com list for details.
+The wxWidgets organization is currently discussing and collecting project
+ideas, see the wx-dev on googlegroups.com list for details.
 
 A summary of potential projects follows:
 
-* [wxWebView](GSoC-2013-wxWebView) - A few ideas all around wxWebView 
-
-* [wxAndroid](GSoC-2013-wxAndroid) - Start the work on a port to Android
-
-* [wxIOS](GSoC-2013-wxIOS) - Continue to porting project started during GSoC 2011
-
-* [wxUniv](GSoC-2013-wxUniv) - Bring the wxUniv port up to current wxWidgets standard
-
-* [wxGraphicsContext using Direct2D for Windows](GSoC-2013-wxGC-D2D)
-Implement a wxGraphicsContext for Windows using Direct2D replacing the current GDI+ implementation
-
-* [Cross platform system sound](GSoC-2013-crossplatform-sound)
-Provide a way to play various "system sounds"
-
-* [Power management](GSoC-2013-power-management)
-Cross platform support for power management
-
-* [wxFileSystem](GSoC-2013-wxFileSystem)
-Provide a virtual file system abstraction
-
-* [wxAUI native art providers](GSoC-2013-wxAUI-native-art)
-Make wxAUI blend in better with on the major platforms
-
-* [wxRichTextCtrl table UI](GSoC-2013-wxRichTextCtrl-table-UI)
-Create a UI for creating and modifying tables in wxRichTextCtrl
-
-* [wxRichTextCtrl right-to-left](GSoC-2013-wxRichTextCtrl-Right-to-Left)
-Support right to left languages, such as Hebrew
-
-* [Other small projects](GSoC-2013-other)
-Some smaller project ideas which could be combined into one GSoC project
+* **[wxWebView](webview):** A few ideas all around wxWebView.
+* **[wxAndroid](android):** Start the work on a port to Android.
+* **[wxIOS](ios):** Continue the porting project started during
+  GSoC 2011.
+* **[wxUniv](universal):** Bring the wxUniv port up to current wxWidgets
+  standards.
+* **[wxGraphicsContext Using Direct2D for Windows](gc-d2d):** Implement a
+  wxGraphicsContext for Windows using Direct2D replacing the current GDI+
+  implementation.
+* **[Cross Platform System Sound](sound):** Provide a way to play various
+  "system sounds".
+* **[Power Management](power-management):** Cross platform support for power
+  management events.
+* **[wxFileSystem](filesystem):** Provide a virtual file system abstraction.
+* **[wxAUI Native Art Providers](aui-native-art):** Make wxAUI blend in better
+  with native rendering methods on each platform.
+* **[wxRichTextCtrl Table UI](rtc-table-ui):** Create an interface for creating
+  and modifying tables in wxRichTextCtrl.
+* **[wxRichTextCtrl RTL](rtc-rtl):** Support right to left languages, such as
+  Hebrew in wxRichTextCtrl.
+* **[Other Small Projects](small-projects):** Some smaller project ideas which
+  could be combined into one GSoC project.
