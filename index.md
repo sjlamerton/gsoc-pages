@@ -12,8 +12,10 @@ The wxWidgets community is currently collecting [project ideas for 2013](2013),
 please follow the discussion on the wxWidgets development mailing list (wx-dev
 on googlegroups.com), a summary of the projects will follow below.
 
-## Why Participate in GSoC
+### Why Participate in GSoC with wxWidgets
 
-Participating in the Google Summer of Code is a very good opportunity to expand
-the wxWidgets community of developers and for students to get to learn one of
-the major UI toolkits available on all major platforms.
+-  wxWidgets is a mature codebase C++ with a long history, founded 1992
+-  Used by companies such as Google and Dropbox!
+-  Six years of participation with Google Summer of Code
+-  A small and friendly community of developers
+-  A great opportunity to see your work used by many other developers
