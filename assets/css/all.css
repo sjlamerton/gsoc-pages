@@ -30,6 +30,21 @@ table .progress {
 blockquote {
 	margin: 20px 0 20px 0;
 }
+li.calendar {
+	position: relative;
+	margin-left: 18px;
+	margin-top: 8px;
+}
+li.calendar .bullet {
+	position: absolute;
+	top: 1px;
+	left: -18px;
+	width: 14px;
+	height: 14px;
+	background-image: url("../img/glyphicons-halflings.png");
+	background-position: -192px -120px;
+	background-repeat: no-repeat;
+}
 
 .highlight  { background: #ffffff; }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
