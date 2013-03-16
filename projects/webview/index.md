@@ -1,6 +1,6 @@
 ---
 layout: default
-title: wxWebView Projects for 2013
+title: wxWebView-related Projects
 ---
 
 ## Integrate and extend the Chromium backend
@@ -22,6 +22,8 @@ for better Javascript integration.
 * [Chromium Embedded Framework](http://code.google.com/p/chromiumembedded/)
 * [wxWebView](http://docs.wxwidgets.org/trunk/classwx_web_view.html)
 
+----------------------------------------------------------------------------
+
 ## Help system
 
 wxWidgets currently provides the wxHtmlHelpWindow class to display HTML help
@@ -42,6 +44,8 @@ further useful addition.
 * [wxHtmlHelpWindow](http://docs.wxwidgets.org/trunk/classwx_html_help_window.html)
 * [wxWebView](http://docs.wxwidgets.org/trunk/classwx_web_view.html)
 
+----------------------------------------------------------------------------
+
 ## Javascript Integration
 
 wxWebView currently provides a simple RunScript function for running
@@ -58,6 +62,8 @@ further research is required.
 ### See also
 
 * [wxWebView](http://docs.wxwidgets.org/trunk/classwx_web_view.html)
+
+----------------------------------------------------------------------------
 
 ## General Improvements
 
