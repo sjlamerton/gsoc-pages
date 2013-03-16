@@ -38,8 +38,8 @@ Code project.
   that you're capable of participating in wxWidgets development. Students who
   had already participated in wxWidgets development start with an advantage but
   even if you hadn't yet, you should try working on one of the
-  [simple bugs](http://trac.wxwidgets.org/tags/%27simple%27) and submit
-  [patches](http://trac.wxwidgets.org/wiki/HowToSubmitPatches). This will count
+  [simple bugs](http://trac.wxwidgets.org/tags/%27simple%27) and
+  [make a patch](../making-patches). This will count
   a _lot_ for your application.
 
 * **Be enthusiastic** - Summer of Code is a very exciting opportunity, and
