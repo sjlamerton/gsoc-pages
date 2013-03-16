@@ -65,6 +65,7 @@ your mentoring organization:
 
 Once you have found a project that interests you, or if you have your own 
 suggestion, you should read through the [student guidelines](student-guidelines)
-page. Especially important are contacting the wx-dev mailing list and submitting
-some simple patches to the project. When writing your application please keep the
-[application template](application-template) and deadline in mind, good luck!
+page. Especially important are contacting the wx-dev mailing list and
+[submitting some simple patches](making-patches) to the project. When writing
+your application please keep the [application template](application-template)
+and deadline in mind, good luck!
