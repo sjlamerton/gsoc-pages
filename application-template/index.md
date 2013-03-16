@@ -5,20 +5,20 @@ title: Student Application Template
 
 ## About You
 
-Name
+* Name
+* College/University
+* Course
+* E-mail address
+* Website URL, if you have one
 
-College
-
-Course
-
-E-mail address
-
-Web site URL, if you have one
-
-### wxWidgets/Platform Experience
+### wxWidgets Experience
 
 * Experience with C++: None, a little, a fair amount, a lot 
 * Experience with wxWidgets: None, a little, a fair amount, a lot 
+* Links to patches you have submitted to the [wxWidgets Trac](http://trac.wxwidgets.org)
+
+### Platform Experience
+
 * Experience with programming on Linux: None, None, a little, a fair amount, a lot 
 * Experience with programming on Windows: None, a little, a fair amount, a lot 
 * Experience with programming on Mac OS X: None, a little, a fair amount, a lot 
@@ -37,7 +37,8 @@ hesitate to explain your advantages compared to other applicants.
 ### Project Goals
 
 Describe the goals of the project and its benefits. Please be concrete and
-identify each of the targets precisely.
+identify each of the targets precisely. A link to any discussion of your
+project on the mailing list would also be beneficial.
 
 ### Schedule
 
