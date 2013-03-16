@@ -7,8 +7,8 @@ title: Google Summer of Code
 
 [Google Summer of Code](https://developers.google.com/open-source/soc/),
 abbreviated GSoC, is an amazing program organized by Google which offers
-students stipends for working on open source projects. This year GSoC has
-been announced on February 11 and [wxWidgets](http://www.wxwidgets.org) will
+students stipends for working on open source projects. This year GSoC 
+was announced on February 11 and [wxWidgets](http://www.wxwidgets.org) will
 apply as a mentoring organization.
 
 While the final decision will only be known on April 8, we are already looking
@@ -29,14 +29,14 @@ your mentoring organization:
 
 - **wxWidgets has a friendly community of developers** -
     We will welcome you warmly and do our best to help you to get up to speed
-    quickly and you can always rely on getting answers to your questions on
+    quickly. You can always rely on getting answers to your questions on
     our mailing list.
 
 - **wxWidgets is a popular, widely used library** -
     It is used by thousands of people and companies (including some that you
     might know, such as [Intel](http://wxwidgets.blogspot.com/2012/08/did-you-know-that-intel-vtune-used.html),
-    Dropbox and [Google](https://plus.google.com/+wxwidgets/posts/1ms9xR7nEDD))
-    so the code you will work on will get a lot of visibility and will gain
+    Dropbox and [Google](https://plus.google.com/+wxwidgets/posts/1ms9xR7nEDD)).
+    The code you will work on will get a lot of visibility and will gain
     you a lot of kudos from other developers, even those not using C++
     themselves as wxWidgets is also the basis of
     [wxPython](http://www.wxpython.org/), [wxPerl](http://www.wxperl.it/),
@@ -46,14 +46,14 @@ your mentoring organization:
     libraries.
 
 - **We propose some great [projects](2013) for you to work on** -
-    For example, porting wxWidgets API to Android or iOS are definitely very
+    For example, porting the wxWidgets API to Android or iOS are definitely very
     exciting -- albeit quite challenging -- tasks. Other ones might be less
-    innovative but you would still be creating something new and make it
-    possible to do things that hadn't been practical before in cross-platform
+    innovative but you would still be creating something new and making it
+    possible to do things that haven't been practical before in cross-platform
     programs.
 
 - **We have participated in six previous GSoCs** -
-    So we have quite some experience of mentoring students. In fact, some of
+    So we have quite a lot of experience mentoring students. In fact, some of
     the potential mentors are students themselves and will be able to help you
     effectively.
 
