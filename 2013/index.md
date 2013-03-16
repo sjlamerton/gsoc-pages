@@ -28,14 +28,9 @@ The projects are sorted roughly in order of their
   for power management events.
 * **[Cross Platform System Sound](../projects/sound):** Provide a way to play
   various "system sounds".
-* **[wxFileSystem](../projects/filesystem):** Improve our virtual file system
-  abstraction.
 * **[wxAUI Native Art Providers](../projects/aui-native-art):** Make wxAUI
   blend in better with native rendering methods on each platform.
-* **[wxRichTextCtrl Table UI](../projects/rtc-table-ui):** Create an interface
-  for creating and modifying tables in
-  [wxRichTextCtrl](http://docs.wxwidgets.org/trunk/classwx_rich_text_ctrl.html).
-* **[wxRichTextCtrl RTL](../projects/rtc-rtl):** Support right to left
-  languages, such as Hebrew in wxRichTextCtrl.
-* **[Other Small Projects](../projects/small-projects):** Some smaller project
-  ideas which could be combined into one GSoC project.
+* **[wxRichTextCtrl Enhancements](../projects/rtc):** Several projects related
+  to [wxRichTextCtrl](http://docs.wxwidgets.org/trunk/classwx_rich_text_ctrl.html).
+* **[wxFileSystem](../projects/filesystem):** Improve our virtual file system
+  abstraction.
