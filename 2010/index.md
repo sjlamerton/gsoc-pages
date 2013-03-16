@@ -7,9 +7,9 @@ We had the record five projects during Google Summer of Code 2010:
 
 ----
 
-## wxRichTextCtrl image enhancement
-### Student: Bella
-### Mentor: Julian Smart
+### wxRichTextCtrl image enhancement
+Student: Bella  
+Mentor: Julian Smart
 
 Original proposal:
 
@@ -27,9 +27,9 @@ SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2010_RTC_IM
 
 ----
 
-## Implementing wxQT port
-### Student: Javier Torres
-### Mentor: Julian Smart
+### Implementing wxQT port
+Student: Javier Torres  
+Mentor: Julian Smart
 
 Original proposal:
 
@@ -46,9 +46,9 @@ See also: [wiki page](http://wiki.wxwidgets.org/WxQt)
 
 ----
 
-## Masked Edit Control
-### Student: Julien Weinzorn
-### Mentor: Robin Dunn
+### Masked Edit Control
+Student: Julien Weinzorn  
+Mentor: Robin Dunn
 
 Original proposal:
 
@@ -63,9 +63,9 @@ SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2010_MASKED
 
 ----
 
-## Wrapping new Windows Vista/7 functionality
-### Student: Rickard Westerlund
-### Mentor: Vadim Zeitlin
+### Wrapping new Windows Vista/7 functionality
+Student: Rickard Westerlund  
+Mentor: Vadim Zeitlin
 
 Original proposal:
 
@@ -83,9 +83,9 @@ SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2010_WIN7_U
 
 ----
 
-## Improved wxWidgets GUI unit testing
-### Student: Steven Lamerton
-### Mentor: Stefan Csomor & Vadim Zeitlin
+### Improved wxWidgets GUI unit testing
+Student: Steven Lamerton  
+Mentor: Stefan Csomor & Vadim Zeitlin
 
 > wxWidgets currently has very few tests for its GUI classes. This proposal
 > aims to remedy this by first providing an improved GUI testing system and set

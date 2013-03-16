@@ -7,9 +7,9 @@ We had three projects during Google Summer of Code 2011:
 
 ----
 
-## wxWidgets port for GTK+3
-### Student: John Chain
-### Mentor: Paul Cornett
+### wxWidgets port for GTK+3
+Student: John Chain  
+Mentor: Paul Cornett
 
 Original proposal:
 
@@ -25,9 +25,9 @@ SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2011_GTK3/
 
 ----
 
-## wxWidgets port for iOS
-### Student: Linas Valiukas
-### Mentor: Stefan Csomor
+### wxWidgets port for iOS
+Student: Linas Valiukas  
+Mentor: Stefan Csomor
 
 Original proposal:
 
@@ -45,9 +45,9 @@ SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2011_WXIOS/
 
 ----
 
-## wxWebView Integration
-### Student: Steven Lamerton
-### Mentor: Julian Smart
+### wxWebView Integration
+Student: Steven Lamerton  
+Mentor: Julian Smart
 
 Original proposal:
 

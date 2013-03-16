@@ -7,9 +7,9 @@ We had three projects as part of Google Summer of Code 2009:
 
 ----
 
-## Ribbon bar component
-### Student: Peter Cawley
-### Mentor: Julian Smart
+### Ribbon bar component
+Student: Peter Cawley  
+Mentor: Julian Smart
 
 Original proposal:
 
@@ -27,9 +27,9 @@ SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2009_RIBBON
 
 ----
 
-## File System Watcher
-### Student: Bartosz Bekier
-### Mentor: Vadim Zeitlin
+### File System Watcher
+Student: Bartosz Bekier  
+Mentor: Vadim Zeitlin
 
 Original proposal:
 
@@ -46,9 +46,9 @@ implemented even if several bugs remained.
 
 SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2009_FSWATCHER/
 
-## AUI enhancements
-### Student: Malcolm MacLeod
-### Mentor: Bryan Petty
+### AUI enhancements
+Student: Malcolm MacLeod  
+Mentor: Bryan Petty
 
 Original proposal:
 
