@@ -23,7 +23,7 @@ The project was a great success and
 [wxRibbonBar](http://docs.wxwidgets.org/trunk/classwx_ribbon_bar.html) has been
 part of wxWidgets since 2010.
 
-SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2009_RIBBON/
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/SOC2009_RIBBON)
 
 ----
 
@@ -44,7 +44,7 @@ Original proposal:
 The project was a qualified success as the class functionality was mostly
 implemented even if several bugs remained.
 
-SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2009_FSWATCHER/
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/SOC2009_FSWATCHER)
 
 ### AUI enhancements
 Student: Malcolm MacLeod  
@@ -58,7 +58,7 @@ Original proposal:
 > primary goal I will integrate proper tested fixes for various other
 > outstanding problems and minor feature enhancements in AUI.
 
-SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2009_AUI/
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/SOC2009_AUI)
 
 ----
 

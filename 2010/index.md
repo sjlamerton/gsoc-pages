@@ -23,7 +23,7 @@ Original proposal:
 
 This project was successful and was integrated into the next release.
 
-SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2010_RTC_IMAGES/
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/SOC2010_RTC_IMAGES)
 
 ----
 
@@ -40,7 +40,7 @@ Original proposal:
 The goals of this project were over-ambitious and in spite of great efforts by
 Javier, wxQt hasn't achieved the usable state yet.
 
-SVN branch: http://svn.wxwidgets.org/svn/wx/wxWidgets/branches/wxQT
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/wxQT)
 
 See also: [wiki page](http://wiki.wxwidgets.org/WxQt)
 
@@ -59,7 +59,7 @@ Original proposal:
 
 Unfortunately, the student didn't finish this project.
 
-SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2010_MASKED_CTRL/
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/SOC2010_MASKED_CTRL)
 
 ----
 
@@ -79,7 +79,7 @@ Original proposal:
 This project was successful and brought a better, more native, appearance to
 wxWidgets programs under modern Windows systems.
 
-SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2010_WIN7_UI/
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/SOC2010_WIN7_UI)
 
 ----
 
@@ -99,7 +99,7 @@ This project was a spectacular success and resulted in addition of
 class and a whole new GUI test suite using it, as well as fixing a huge number
 of bugs in wxWidgets.
 
-SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2010_GUI_TEST/
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/SOC2010_GUI_TEST)
 
 ----
 

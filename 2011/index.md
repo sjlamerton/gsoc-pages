@@ -21,7 +21,7 @@ Original proposal:
 The project was a qualified success and experimental support for GTK+ 3 was
 included in the next wxWidgets release.
 
-SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2011_GTK3/
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/SOC2011_GTK3)
 
 ----
 
@@ -41,7 +41,7 @@ Original proposal:
 This project was successful in its scope, but wxiOS still remains in highly
 experimental state.
 
-SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2011_WXIOS/
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/SOC2011_WXIOS)
 
 ----
 
@@ -63,6 +63,6 @@ This project was spectacularly successful and
 the most important and highly anticipated additions in the next wxWidgets
 release.
 
-SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2011_WEBVIEW/
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/SOC2011_WEBVIEW)
 
 See [previous](../2010/) and [next](../2012/) years.
