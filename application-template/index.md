@@ -15,7 +15,7 @@ title: Student Application Template
 
 As described in the [making patches](../making-patches/) page, we require the
 applicants to submit at least one simple patch to wxWidgets to show your
-capability to work with its source code, so please provide links to the patch,
+ability to work with its source code, so please provide links to the patch,
 or patches, you have submitted.
 
 Please also briefly describe your experience in the following areas:
@@ -36,7 +36,7 @@ to say about it.
 
 Please describe details of your academic, industry, and/or open source
 development experience, and other details as you see fit. An explanation of
-your development methodology is a good idea, as well.
+your development methodology is a good idea as well.
 
 ## About Your Proposal
 

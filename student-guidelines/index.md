@@ -6,18 +6,18 @@ title: Student Guidelines
 Here are some tips about how to make a better proposal for a Google Summer of
 Code project.
 
-* **Communicate** - Please post to wx-dev mailing list and discuss your
+* **Communicate** - Please post to the wx-dev mailing list and discuss your
   proposal before submitting it, this will certainly help you to make a better
   one. Also, communicating with the other developers is a prerequisite for
   working on any open source project so it is important to show that you don't
-  shy away from it. Don't be bothered by the fact that English isn't your
+  shy away from it. Don't be bothered if English isn't your
   native language, it is the case for most of people on wx-dev (including the
   writer of this page) as well!
 
 * **Manage your time** - Please try to not underestimate the scope of a
   project, but also not to overestimate it. Defining clear milestones helps a
   lot here. Remember that you must make working on your wxWidgets project your
-  main activity for the entire summer, don't count on doing another work in
+  main activity for the entire summer, don't count on doing other work in
   parallel with it.
 
 * **Sell your idea** - Describe your idea in detail. What is the ultimate
@@ -38,8 +38,8 @@ Code project.
   that you're capable of participating in wxWidgets development. Students who
   had already participated in wxWidgets development start with an advantage but
   even if you hadn't yet, you should try working on one of the
-  [simple bugs](http://trac.wxwidgets.org/tags/%27simple%27) and submit
-  [patches](http://trac.wxwidgets.org/wiki/HowToSubmitPatches). This will count
+  [simple bugs](http://trac.wxwidgets.org/tags/%27simple%27) and
+  [make a patch](../making-patches). This will count
   a _lot_ for your application.
 
 * **Be enthusiastic** - Summer of Code is a very exciting opportunity, and

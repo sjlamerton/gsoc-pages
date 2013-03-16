@@ -5,20 +5,20 @@ title: GSoC 2008
 
 The following two projects were undertaken as part of GSoC 2008:
 
-## Wall control
-### Student: Mokhtar M. Khorshid
-### Mentor: Julian Smart
+### Wall control
+Student: Mokhtar M. Khorshid  
+Mentor: Julian Smart
 
 The project unfortunately didn't achieve its goals and wxWallCtrl is still
 not available for the general use.
 
-SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2008_WXWALLCTRL/
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/SOC2008_WXWALLCTRL)
 
 ----
 
-## Fixing bugs in wxGTK and wxMSW
-### Student: Marcin Wojdyr
-### Mentor: Vadim Zeitlin
+### Fixing bugs in wxGTK and wxMSW
+Student: Marcin Wojdyr  
+Mentor: Vadim Zeitlin
 
 This project was very successful, a huge number of bugs, including a lot of
 inconsistencies between the platforms, was fixed and a lot of unit tests added.

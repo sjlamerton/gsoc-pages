@@ -7,9 +7,9 @@ We had the record five projects during Google Summer of Code 2010:
 
 ----
 
-## wxRichTextCtrl image enhancement
-### Student: Bella
-### Mentor: Julian Smart
+### wxRichTextCtrl image enhancement
+Student: Bella  
+Mentor: Julian Smart
 
 Original proposal:
 
@@ -23,13 +23,13 @@ Original proposal:
 
 This project was successful and was integrated into the next release.
 
-SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2010_RTC_IMAGES/
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/SOC2010_RTC_IMAGES)
 
 ----
 
-## Implementing wxQT port
-### Student: Javier Torres
-### Mentor: Julian Smart
+### Implementing wxQT port
+Student: Javier Torres  
+Mentor: Julian Smart
 
 Original proposal:
 
@@ -40,15 +40,15 @@ Original proposal:
 The goals of this project were over-ambitious and in spite of great efforts by
 Javier, wxQt hasn't achieved the usable state yet.
 
-SVN branch: http://svn.wxwidgets.org/svn/wx/wxWidgets/branches/wxQT
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/wxQT)
 
 See also: [wiki page](http://wiki.wxwidgets.org/WxQt)
 
 ----
 
-## Masked Edit Control
-### Student: Julien Weinzorn
-### Mentor: Robin Dunn
+### Masked Edit Control
+Student: Julien Weinzorn  
+Mentor: Robin Dunn
 
 Original proposal:
 
@@ -59,13 +59,13 @@ Original proposal:
 
 Unfortunately, the student didn't finish this project.
 
-SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2010_MASKED_CTRL/
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/SOC2010_MASKED_CTRL)
 
 ----
 
-## Wrapping new Windows Vista/7 functionality
-### Student: Rickard Westerlund
-### Mentor: Vadim Zeitlin
+### Wrapping new Windows Vista/7 functionality
+Student: Rickard Westerlund  
+Mentor: Vadim Zeitlin
 
 Original proposal:
 
@@ -79,13 +79,13 @@ Original proposal:
 This project was successful and brought a better, more native, appearance to
 wxWidgets programs under modern Windows systems.
 
-SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2010_WIN7_UI/
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/SOC2010_WIN7_UI)
 
 ----
 
-## Improved wxWidgets GUI unit testing
-### Student: Steven Lamerton
-### Mentor: Stefan Csomor & Vadim Zeitlin
+### Improved wxWidgets GUI unit testing
+Student: Steven Lamerton  
+Mentor: Stefan Csomor & Vadim Zeitlin
 
 > wxWidgets currently has very few tests for its GUI classes. This proposal
 > aims to remedy this by first providing an improved GUI testing system and set
@@ -99,7 +99,7 @@ This project was a spectacular success and resulted in addition of
 class and a whole new GUI test suite using it, as well as fixing a huge number
 of bugs in wxWidgets.
 
-SVN branch: http://svn.wxwidgets.org/viewvc/wx/wxWidgets/branches/SOC2010_GUI_TEST/
+[SVN branch](http://trac.wxwidgets.org/browser/wxWidgets/branches/SOC2010_GUI_TEST)
 
 ----
 
