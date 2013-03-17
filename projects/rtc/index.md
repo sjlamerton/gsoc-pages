@@ -52,9 +52,4 @@ references for it (try [Tex (Wiki)](http://en.wikipedia.org/wiki/TeX#Hyphenation
 [Tex (by D.Knuth)](http://tex.loria.fr/tex-source/tex-source.html)).
 Another good description can be found here: Adobe InDesign, Text and
 Typography. A JavaScript implementation can be found here: [TeX line breaking
-algorithm in Javascript](http://www.bramstein.com/projects/typeset/). Cross
-platform administrator dialog The aim would be to provide API for a
-cross-platform "get administrator privileges" dialog to allow
-installations/operations inside system paths. This project may include
-definition &amp; implementation of an API for changing/querying access
-privileges at run-time for a certain process.
+algorithm in Javascript](http://www.bramstein.com/projects/typeset/).
