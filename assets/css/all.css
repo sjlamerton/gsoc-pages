@@ -30,6 +30,10 @@ table .progress {
 blockquote {
 	margin: 20px 0 20px 0;
 }
+blockquote p {
+	font-size: 14px;
+	font-style: italic;
+}
 li.calendar {
 	position: relative;
 	margin-left: 18px;
