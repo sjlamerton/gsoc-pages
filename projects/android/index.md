@@ -5,6 +5,8 @@ title: wxAndroid
 
 ## Create minimally functional Android port.
 
+<div style="float: right; margin: 0 0 0 10px"><img src="wxandroid_hello.png" /></div>
+
 The goal of this project would be to start wxAndroid port, i.e. an
 implementation of wxWidgets API targeting Android OS. It is infeasible to
 fully write such a port in GSoC time frame, but we believe that a motivated
