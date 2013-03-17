@@ -13,7 +13,7 @@ would also be highly beneficial. This project has the potential to provide a
 uniform backend for all three major platforms, and potentially opens the way
 for better Javascript integration.
 
-[**Difficulty:**](../project-ratings) 7
+[**Difficulty:**](../project-ratings) 6
 [**Importance:**](../project-ratings) 7
 
 ### See also
@@ -36,7 +36,7 @@ use the wxAuiNotebook classes rather than wxNotebook to allow a better visual
 fit with classes that make extensive use of wxAUI. An EPUB parser would be a
 further useful addition.
 
-[**Difficulty:**](../project-ratings) 6
+[**Difficulty:**](../project-ratings) 5
 [**Importance:**](../project-ratings) 6
 
 ### See also
@@ -56,7 +56,7 @@ would be required that ensures uniform behaviour across the different backends.
 Before applying for this project please contact the wx-dev mailing list as
 further research is required.
 
-[**Difficulty:**](../project-ratings) 9
+[**Difficulty:**](../project-ratings) 8
 [**Importance:**](../project-ratings) 8
 
 ### See also
@@ -78,7 +78,7 @@ existing backends, whilst also keeping the new Chromium backend in mind. Please
 post to wx-dev if you are interested in working on this so that work is not
 duplicated.
 
-[**Difficulty:**](../project-ratings) 7
+[**Difficulty:**](../project-ratings) 5 (depends on project)
 [**Importance:**](../project-ratings) 6
 
 ### See also
