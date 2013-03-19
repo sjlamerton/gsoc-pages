@@ -5,7 +5,13 @@ title: System sounds
 
 ## Cross platform support for playing system sounds
 
-wxWidgets provides wxBell() function which is as simple as it gets and also uses the native platform implementation but also minimally flexible and wxSound class which allows to play any sound file but requires the file (or sound data) to be present and produces the same result under all platforms (meaning that it won't sound good on any but one of them). The goal of this project would be to provide a way to play various "system sounds" in a simple and portable way and respecting the user settings (in particular, not play anything at all if the sound effects are turned off).
+wxWidgets provides a wxBell() function which is as simple as it gets and the wxSound
+class which allows sound files to be played but requires the file (or sound data)
+to be present and produces the same result under all platforms (meaning that it
+won't sound good on any of them). The goal of this project would be to
+provide a way to play various "system sounds" in a simple and portable way and
+respecting the user settings (in particular, not play anything at all if the
+sound effects are turned off).
 
 [**Difficulty:**](../project-ratings) 5-7
 [**Importance:**](../project-ratings) 5
@@ -23,4 +29,4 @@ implementable on the other platforms.
 
 ### Experience needed
 
-Experience with the platforms being targeted would be welcome. No 
+Experience with the platforms being targeted would be welcome.

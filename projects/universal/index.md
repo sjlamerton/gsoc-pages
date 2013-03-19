@@ -12,13 +12,13 @@ for platforms which don't have their own native UI (such as e.g.
 [DirectFB](http://directfb.org/)) or those in which the native UI is difficult
 to wrap (see the discussion of [wxAndroid](../project/android) project).
 
-Unfortunately wxUniversal didn't get much attention during many years and the
-changes elsewhere in wxWidgets have introduced quite a few bugs in it. Also,
-many relatively recent controls are not implemented in it.
+Unfortunately wxUniversal hasn't got much attention for many years and the
+changes elsewhere in wxWidgets have introduced quite a few bugs in it. Also
+many relatively recent controls are not implemented.
 
 The goal of this project would be to check the current wxUniv status in
-details, catalog the existing bugs and missing features and, based on this
-list, working on fixing and implementing them.
+detail, catalog the existing bugs and missing features and, based on this
+list, work on fixing and implementing them.
 
 [**Difficulty:**](../project-ratings) 7
 [**Importance:**](../project-ratings) 6 (but more if wxUniv is used by wxAndroid)

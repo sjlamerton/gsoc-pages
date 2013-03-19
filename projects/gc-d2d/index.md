@@ -9,22 +9,22 @@ title: Direct2D-based wxGraphicsContext
 
 Currently,
 [wxGraphicsContext](http://docs.wxwidgets.org/trunk/classwx_graphics_context.html)
-is implemented using GDI+ under Windows. GDI+ seems, unfortunately, abandoned
-by Microsoft and has a lot of problems. Generally very poor performance (as
+is implemented using GDI+ under Windows. GDI+ seems, unfortunately, to be abandoned
+by Microsoft and has a lot of problems including generally very poor performance (as
 it is not hardware-accelerated at all) and horrible text rendering, especially
-at small font sizes, are just two of the most important problems.
+at small font sizes.
 
 Since Windows 7 (and Vista with updates installed) another solution is
 available:
 [Direct2D](http://msdn.microsoft.com/en-us/library/windows/desktop/dd370990.aspx).
-This project would consist in implementing a new
+This project would consist of implementing a new
 [wxGraphicsContext](http://docs.wxwidgets.org/trunk/classwx_graphics_context.html)
-backend using this new API, and companion DirectWrite for the text output.
+backend using this new API, and its companion DirectWrite for the text output.
 
 [**Difficulty:**](../project-ratings) 7
 [**Importance:**](../project-ratings) 8
 
 ### Experience needed
 
-Windows, COM (at basic level), Direct2D itself would be great but can be
+Windows, COM (at a basic level), Direct2D itself would be great but can be
 learned during the project.

@@ -7,7 +7,7 @@ title: Power Management
 
 wxWidgets has support for
 [power events](http://docs.wxwidgets.org/trunk/classwx_power_event.html) but
-it's implemented for Windows only right now and doesn't even work for Vista and
+it's currently only implemented on Windows and doesn't work for Vista and
 later systems right now, e.g. it's impossible to prevent the system from
 suspending in this way (which was used until Windows XP) any more. The goal of
 this project would be to update power management support for Windows Vista/7
